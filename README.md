@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @floorpie
-- 👀 I’m interested in infosec
-- 🌱 I’m currently studying for OSCP
+- 👀 I’m interested in cloud and infosec
+- 🌱 I’m currently studying for ...
 
 This space is used to store the various useful tools, scripts, etc that I encounter during my studies.
 
